@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Cpp\Chapter 3\Chapter 3\frac_calculator.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Cpp\Chapter 3\Chapter 3\fibo.cpp">
+    <ClCompile Include="fibo.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
