@@ -123,6 +123,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\Cpp\Chapter 3\Chapter 3\frac_calculator.cpp" />
+    <ClCompile Include="..\..\Cpp\Chapter 3\Chapter 3\fibo.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
